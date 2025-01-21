@@ -1,4 +1,5 @@
-#Install Discord class and setup Discord Dev App before beginning
+#Install Discord class and setup Discord Dev App
+#Install OpenAI class and setup an API key on the OpenAI Development Platform
 #This is a work in progress; stay tuned for updates as we continue to enhance functionality and optimize performance.
 #Make sure to use your own Dev Tokens and API keys for Discord, OpenAI, and any other integrations used in the app.
 
